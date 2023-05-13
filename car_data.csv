@@ -1,16 +1,16 @@
 Name,Price,Mileage,Expert Rating,Consumer Rating
-2024 Subaru Crosstrek,26290,29,4.6,(N/A)
-2024 Chevrolet Trax,21495,30,4.1,(N/A)
+2024 Subaru Crosstrek,26290,29,4.6,N/A
+2024 Chevrolet Trax,21495,30,4.1,N/A
 2024 Subaru Legacy,25985,30,4.0,4.5
-2024 Chevrolet Equinox,27995,30,4.0,3.9
-2024 Buick Encore GX,26895,30,3.6,4.3
-2024 MINI Hardtop 2 Door,26795,30,3.3,4.6
-2024 Subaru Impreza,24085,30,(N/A),(N/A)
+2024 Chevrolet Equinox,27995,N/A,4.0,3.9
+2024 Buick Encore GX,26895,N/A,3.6,4.3
+2024 MINI Hardtop 2 Door,26795,N/A,3.3,4.6
+2024 Subaru Impreza,24085,30,N/A,N/A
 2023 Kia Seltos,24665,29,4.8,4.1
-2023 Honda Accord,28390,32,4.8,(N/A)
-2023 Toyota Prius,28545,57,4.8,(N/A)
+2023 Honda Accord,28390,32,4.8,N/A
+2023 Toyota Prius,28545,57,4.8,N/A
 2023 MAZDA MX-5 Miata,29215,29,4.8,4.7
-2023 Honda CR-V,29705,30,4.8,(N/A)
+2023 Honda CR-V,29705,30,4.8,N/A
 2023 Honda HR-V,25095,28,4.7,3.8
 2023 Honda Civic,26145,33,4.7,4.2
 2023 Hyundai Elantra,22065,37,4.6,4.1
@@ -27,9 +27,9 @@ Name,Price,Mileage,Expert Rating,Consumer Rating
 2023 Ford Maverick,24190,37,4.5,4.6
 2023 Toyota Corolla Cross,24945,30,4.5,4.3
 2023 Kia K5,26415,31,4.5,4.3
-2023 Kia Niro,27915,49,4.5,(N/A)
+2023 Kia Niro,27915,49,4.5,N/A
 2023 MAZDA CX-5,28075,26,4.5,4.4
-2023 MAZDA CX-50,28925,27,4.5,(N/A)
+2023 MAZDA CX-50,28925,27,4.5,N/A
 2023 Ford Mustang,29145,24,4.5,4.7
 2023 Kia Soul,21215,30,4.4,4.4
 2023 Hyundai Kona,23475,32,4.4,4.3
@@ -73,7 +73,7 @@ Name,Price,Mileage,Expert Rating,Consumer Rating
 2023 Mitsubishi Eclipse Cross,27335,26,3.3,4.2
 2023 MINI Convertible,29250,31,3.3,4.6
 2023 Mitsubishi Mirage,17450,39,3.1,4.4
-2023 Ford Escape,29495,30,(N/A),4.2
+2023 Ford Escape,29495,30,N/A,4.2
 2022 Kia Seltos,23885,29,4.8,4.1
 2022 Toyota RAV4,28150,30,4.8,3.6
 2022 MAZDA MX-5 Miata,28365,29,4.8,4.7
@@ -132,7 +132,7 @@ Name,Price,Mileage,Expert Rating,Consumer Rating
 2022 Toyota Corolla Cross,23660,32,4.0,4.3
 2022 Subaru Legacy,24490,30,4.0,4.5
 2022 Volkswagen Tiguan,27785,26,4.0,4.4
-2022 Nissan Frontier King Cab,29985,20,4.0,(N/A)
+2022 Nissan Frontier King Cab,29985,20,4.0,N/A
 2022 Hyundai Venue,20295,31,3.9,4.4
 2022 Volkswagen Jetta,21460,34,3.9,4.2
 2022 Subaru Impreza,20290,26,3.8,4.3
@@ -158,10 +158,10 @@ Name,Price,Mileage,Expert Rating,Consumer Rating
 2022 Buick Encore,25795,27,3.1,4.4
 2022 Mitsubishi Outlander Sport,23245,27,3.0,3.3
 2022 FIAT 500X,29560,26,2.9,4.0
-2022 MINI Hardtop 4 Door,24750,31,(N/A),4.6
-2022 Ford Transit Connect Cargo Van,26570,25,(N/A),4.3
-2022 MINI Convertible,28750,31,(N/A),4.6
-2022 Ford Transit Connect Passenger Wagon,29315,26,(N/A),4.3
+2022 MINI Hardtop 4 Door,24750,31,N/A,4.6
+2022 Ford Transit Connect Cargo Van,26570,25,N/A,4.3
+2022 MINI Convertible,28750,31,N/A,4.6
+2022 Ford Transit Connect Passenger Wagon,29315,26,N/A,4.3
 2022 Kia Sorento,29650,26,4.7,4.2
 2022 Chevrolet Bolt EV,28230,26,4.6,4.6
 2022 Kia Niro Plug-in Hybrid,28750,26,4.2,4.5
@@ -260,18 +260,18 @@ Name,Price,Mileage,Expert Rating,Consumer Rating
 2021 Buick Encore,19811,27,3.1,4.4
 2021 Mitsubishi Outlander Sport,21654,27,3.0,3.3
 2021 FIAT 500X,19912,26,2.9,4.0
-2021 Mitsubishi Mirage G4,16243,35,(N/A),4.1
-2021 MINI Hardtop 4 Door,23442,30,(N/A),4.6
-2021 Chrysler Voyager,25794,22,(N/A),4.3
-2021 Hyundai Ioniq Electric,26276,N/A,(N/A),4.2
-2021 Nissan NV200,26323,25,(N/A),3.4
-2021 Volkswagen Golf GTI,26553,27,(N/A),4.6
-2021 Hyundai Ioniq Plug-in Hybrid,27392,N/A,(N/A),4.2
-2021 MINI Convertible,27861,30,(N/A),4.6
-2021 Ford Transit Connect Passenger Wagon,27925,26,(N/A),4.3
-2021 Ram ProMaster City,28514,24,(N/A),3.2
-2021 Volkswagen Jetta GLI,29019,28,(N/A),4.2
-2021 MAZDA MX-5 Miata RF,29568,29,(N/A),4.7
+2021 Mitsubishi Mirage G4,16243,35,N/A,4.1
+2021 MINI Hardtop 4 Door,23442,30,N/A,4.6
+2021 Chrysler Voyager,25794,22,N/A,4.3
+2021 Hyundai Ioniq Electric,26276,N/A,N/A,4.2
+2021 Nissan NV200,26323,25,N/A,3.4
+2021 Volkswagen Golf GTI,26553,27,N/A,4.6
+2021 Hyundai Ioniq Plug-in Hybrid,27392,N/A,N/A,4.2
+2021 MINI Convertible,27861,30,N/A,4.6
+2021 Ford Transit Connect Passenger Wagon,27925,26,N/A,4.3
+2021 Ram ProMaster City,28514,24,N/A,3.2
+2021 Volkswagen Jetta GLI,29019,28,N/A,4.2
+2021 MAZDA MX-5 Miata RF,29568,29,N/A,4.7
 2020 Honda Accord,25342,33,4.8,4.4
 2020 Honda CR-V,27583,29,4.8,4.1
 2020 Honda CR-V Hybrid,27979,38,4.8,3.9
@@ -420,26 +420,26 @@ Name,Price,Mileage,Expert Rating,Consumer Rating
 2020 Mitsubishi Mirage,14546,36,3.0,4.4
 2020 FIAT 500L,18753,25,2.9,4.5
 2020 Dodge Journey,21533,21,2.9,3.7
-2020 Mitsubishi Mirage G4,14639,35,(N/A),4.1
-2020 Toyota Yaris Hatchback,19299,35,(N/A),(N/A)
-2020 Buick Regal Sportback,19374,26,(N/A),4.4
-2020 Toyota Corolla Hatchback,21598,35,(N/A),4.3
-2020 MINI Hardtop 4 Door,22171,31,(N/A),4.6
-2020 Buick Regal TourX,22665,24,(N/A),4.4
-2020 Honda Insight,23283,52,(N/A),4.6
-2020 Toyota Mirai,24422,N/A,(N/A),2.6
-2020 MINI Countryman,25260,N/A,(N/A),4.2
-2020 Ram 1500 Classic Regular Cab,25347,17,(N/A),4.4
-2020 Nissan NV200,25422,25,(N/A),3.4
-2020 MINI Convertible,25720,31,(N/A),4.6
-2020 Ram ProMaster City,26415,24,(N/A),3.2
-2020 Ford Escape Plug-in Hybrid,26467,N/A,(N/A),4.2
-2020 Ford Transit Connect Cargo Van,26529,25,(N/A),4.3
-2020 Ford Transit Connect Passenger Wagon,26689,26,(N/A),4.3
-2020 Mercedes-Benz Metris Cargo,28109,22,(N/A),4.0
-2020 MAZDA MX-5 Miata RF,28150,29,(N/A),4.7
-2020 BMW i3,28665,N/A,(N/A),4.7
-2020 Mercedes-Benz Metris WORKER Cargo,29273,N/A,(N/A),4.0
+2020 Mitsubishi Mirage G4,14639,35,N/A,4.1
+2020 Toyota Yaris Hatchback,19299,35,N/A,N/A
+2020 Buick Regal Sportback,19374,26,N/A,4.4
+2020 Toyota Corolla Hatchback,21598,35,N/A,4.3
+2020 MINI Hardtop 4 Door,22171,31,N/A,4.6
+2020 Buick Regal TourX,22665,24,N/A,4.4
+2020 Honda Insight,23283,52,N/A,4.6
+2020 Toyota Mirai,24422,N/A,N/A,2.6
+2020 MINI Countryman,25260,N/A,N/A,4.2
+2020 Ram 1500 Classic Regular Cab,25347,17,N/A,4.4
+2020 Nissan NV200,25422,25,N/A,3.4
+2020 MINI Convertible,25720,31,N/A,4.6
+2020 Ram ProMaster City,26415,24,N/A,3.2
+2020 Ford Escape Plug-in Hybrid,26467,N/A,N/A,4.2
+2020 Ford Transit Connect Cargo Van,26529,25,N/A,4.3
+2020 Ford Transit Connect Passenger Wagon,26689,26,N/A,4.3
+2020 Mercedes-Benz Metris Cargo,28109,22,N/A,4.0
+2020 MAZDA MX-5 Miata RF,28150,29,N/A,4.7
+2020 BMW i3,28665,N/A,N/A,4.7
+2020 Mercedes-Benz Metris WORKER Cargo,29273,N/A,N/A,4.0
 2019 Toyota RAV4,26279,30,4.9,3.6
 2019 Honda CR-V,25270,27,4.8,4.1
 2019 Honda Accord Hybrid,26600,48,4.8,4.3
@@ -648,30 +648,30 @@ Name,Price,Mileage,Expert Rating,Consumer Rating
 2019 smart fortwo EQ coupe,16150,36,3.0,5.0
 2019 Dodge Journey,16541,21,2.9,3.7
 2019 FIAT 500L,17067,25,2.9,4.5
-2019 Buick Regal Sportback,17438,26,(N/A),4.4
-2019 smart fortwo EQ cabrio,18338,26,(N/A),5.0
-2019 Toyota Corolla Hatchback,19291,36,(N/A),4.3
-2019 Buick Regal TourX,20739,24,(N/A),4.4
-2019 Subaru Outback,21310,28,(N/A),4.4
-2019 Nissan NV200 Taxi,22051,24,(N/A),4.0
-2019 MINI Clubman,22425,27,(N/A),3.8
-2019 Ram ProMaster City,22453,24,(N/A),3.2
-2019 Nissan NV200,22508,25,(N/A),3.4
-2019 Ford Transit Connect Passenger,22626,29,(N/A),4.3
-2019 Subaru Crosstrek,22692,N/A,(N/A),4.4
-2019 Volkswagen Arteon,23671,25,(N/A),5.0
-2019 Chevrolet Silverado 1500 Regular Cab,24295,17,(N/A),3.9
-2019 MINI Countryman,24409,N/A,(N/A),4.2
-2019 Chevrolet Colorado Crew Cab,25240,22,(N/A),4.3
-2019 Ford Transit Connect Cargo,25352,25,(N/A),4.3
-2019 Jaguar E-PACE,25702,24,(N/A),4.4
-2019 Mercedes-Benz Metris Cargo,25997,22,(N/A),4.0
-2019 Mercedes-Benz Metris WORKER Cargo,27350,N/A,(N/A),4.0
-2019 Mercedes-Benz Metris WORKER Passenger,29050,N/A,(N/A),4.0
-2019 Volvo V60,29177,28,(N/A),5.0
-2019 Mercedes-Benz A-Class,29416,28,(N/A),4.2
-2019 Ram ProMaster Cargo Van,29989,N/A,(N/A),3.4
-2019 GMC Savana 2500 Cargo,30000,N/A,(N/A),4.4
+2019 Buick Regal Sportback,17438,26,N/A,4.4
+2019 smart fortwo EQ cabrio,18338,N/A,N/A,5.0
+2019 Toyota Corolla Hatchback,19291,36,N/A,4.3
+2019 Buick Regal TourX,20739,24,N/A,4.4
+2019 Subaru Outback,21310,28,N/A,4.4
+2019 Nissan NV200 Taxi,22051,24,N/A,4.0
+2019 MINI Clubman,22425,27,N/A,3.8
+2019 Ram ProMaster City,22453,24,N/A,3.2
+2019 Nissan NV200,22508,25,N/A,3.4
+2019 Ford Transit Connect Passenger,22626,29,N/A,4.3
+2019 Subaru Crosstrek,22692,N/A,N/A,4.4
+2019 Volkswagen Arteon,23671,25,N/A,5.0
+2019 Chevrolet Silverado 1500 Regular Cab,24295,17,N/A,3.9
+2019 MINI Countryman,24409,N/A,N/A,4.2
+2019 Chevrolet Colorado Crew Cab,25240,22,N/A,4.3
+2019 Ford Transit Connect Cargo,25352,25,N/A,4.3
+2019 Jaguar E-PACE,25702,24,N/A,4.4
+2019 Mercedes-Benz Metris Cargo,25997,22,N/A,4.0
+2019 Mercedes-Benz Metris WORKER Cargo,27350,N/A,N/A,4.0
+2019 Mercedes-Benz Metris WORKER Passenger,29050,N/A,N/A,4.0
+2019 Volvo V60,29177,28,N/A,5.0
+2019 Mercedes-Benz A-Class,29416,28,N/A,4.2
+2019 Ram ProMaster Cargo Van,29989,N/A,N/A,3.4
+2019 GMC Savana 2500 Cargo,30000,N/A,N/A,4.4
 2018 Honda Accord,22575,33,4.8,4.4
 2018 Honda CR-V,23447,27,4.8,4.1
 2018 Honda Accord Hybrid,23957,47,4.8,4.3
@@ -750,7 +750,7 @@ Name,Price,Mileage,Expert Rating,Consumer Rating
 2018 Toyota C-HR,19249,29,4.4,4.0
 2018 MAZDA MAZDA6,19448,29,4.4,4.5
 2018 INFINITI QX30,19557,27,4.4,3.8
-2018 Toyota Prius,20378,27,4.4,4.5
+2018 Toyota Prius,20378,N/A,4.4,4.5
 2018 Subaru Forester,20674,28,4.4,4.3
 2018 Ram 1500 Regular Cab,20823,17,4.4,4.6
 2018 Subaru WRX,21639,23,4.4,4.5
@@ -853,7 +853,7 @@ Name,Price,Mileage,Expert Rating,Consumer Rating
 2018 INFINITI Q70,20714,21,3.9,4.4
 2018 Buick LaCrosse,20976,29,3.9,4.4
 2018 Nissan Titan King Cab,21650,18,3.9,3.5
-2018 Nissan TITAN XD Single Cab,25298,18,3.9,4.5
+2018 Nissan TITAN XD Single Cab,25298,N/A,3.9,4.5
 2018 Nissan TITAN XD Crew Cab,25388,18,3.9,4.5
 2018 Nissan TITAN XD King Cab,27211,N/A,3.9,4.4
 2018 Nissan Titan Crew Cab,28035,18,3.9,4.5
@@ -901,31 +901,31 @@ Name,Price,Mileage,Expert Rating,Consumer Rating
 2018 smart fortwo electric drive,13674,25,3.0,5.0
 2018 smart fortwo electric drive cabrio,16235,25,3.0,5.0
 2018 Dodge Journey,14644,21,2.9,3.7
-2018 Buick Regal Sportback,16764,26,(N/A),4.4
-2018 Chevrolet Malibu,16904,30,(N/A),3.9
-2018 Nissan NV200,17880,25,(N/A),3.4
-2018 MINI Clubman,17921,27,(N/A),3.8
-2018 Toyota Corolla iM,18433,31,(N/A),4.3
-2018 Buick Regal TourX,18878,24,(N/A),4.4
-2018 Ford Transit Connect Passenger,19227,22,(N/A),4.3
-2018 Chevrolet City Express,19478,25,(N/A),5.0
-2018 Ram ProMaster City,20245,24,(N/A),3.2
-2018 Chevrolet Silverado 1500 Regular Cab,20609,20,(N/A),4.3
-2018 MINI Countryman,21359,27,(N/A),4.2
-2018 Ford Transit Connect Cargo,21587,23,(N/A),4.3
-2018 Chevrolet Silverado 1500 Double Cab,22123,20,(N/A),4.3
-2018 Chevrolet Express 2500 Passenger,24455,N/A,(N/A),4.2
-2018 Mercedes-Benz Metris Cargo,25613,22,(N/A),4.0
-2018 Chevrolet Silverado 1500 Crew Cab,25900,20,(N/A),4.3
-2018 Mercedes-Benz Metris WORKER Passenger,26143,21,(N/A),4.0
-2018 Chevrolet Express 3500 Passenger,26560,12,(N/A),4.2
-2018 GMC Savana 2500 Cargo,26779,12,(N/A),4.4
-2018 Mercedes-Benz Metris Passenger,26788,21,(N/A),4.0
-2018 Mercedes-Benz Metris WORKER Cargo,27024,22,(N/A),4.0
-2018 Chevrolet Express 2500 Cargo,28167,N/A,(N/A),4.2
-2018 GMC Savana 3500 Passenger,28913,12,(N/A),4.4
-2018 Ram ProMaster Cargo Van,29103,N/A,(N/A),3.4
-2018 Nissan NV2500 HD Cargo,29740,N/A,(N/A),4.7
+2018 Buick Regal Sportback,16764,26,N/A,4.4
+2018 Chevrolet Malibu,16904,30,N/A,3.9
+2018 Nissan NV200,17880,25,N/A,3.4
+2018 MINI Clubman,17921,27,N/A,3.8
+2018 Toyota Corolla iM,18433,31,N/A,4.3
+2018 Buick Regal TourX,18878,24,N/A,4.4
+2018 Ford Transit Connect Passenger,19227,22,N/A,4.3
+2018 Chevrolet City Express,19478,25,N/A,5.0
+2018 Ram ProMaster City,20245,24,N/A,3.2
+2018 Chevrolet Silverado 1500 Regular Cab,20609,20,N/A,4.3
+2018 MINI Countryman,21359,27,N/A,4.2
+2018 Ford Transit Connect Cargo,21587,23,N/A,4.3
+2018 Chevrolet Silverado 1500 Double Cab,22123,20,N/A,4.3
+2018 Chevrolet Express 2500 Passenger,24455,N/A,N/A,4.2
+2018 Mercedes-Benz Metris Cargo,25613,22,N/A,4.0
+2018 Chevrolet Silverado 1500 Crew Cab,25900,20,N/A,4.3
+2018 Mercedes-Benz Metris WORKER Passenger,26143,21,N/A,4.0
+2018 Chevrolet Express 3500 Passenger,26560,12,N/A,4.2
+2018 GMC Savana 2500 Cargo,26779,N/A,N/A,4.4
+2018 Mercedes-Benz Metris Passenger,26788,21,N/A,4.0
+2018 Mercedes-Benz Metris WORKER Cargo,27024,22,N/A,4.0
+2018 Chevrolet Express 2500 Cargo,28167,N/A,N/A,4.2
+2018 GMC Savana 3500 Passenger,28913,12,N/A,4.4
+2018 Ram ProMaster Cargo Van,29103,N/A,N/A,3.4
+2018 Nissan NV2500 HD Cargo,29740,N/A,N/A,4.7
 2017 Honda CR-V,21345,27,4.9,4.1
 2017 Chevrolet Bolt EV,19207,27,4.8,4.6
 2017 Audi Q7,22501,22,4.8,4.4
@@ -1023,7 +1023,7 @@ Name,Price,Mileage,Expert Rating,Consumer Rating
 2017 Audi Q5,24052,22,4.4,4.4
 2017 Honda Ridgeline,24070,21,4.4,4.7
 2017 Ram 1500 Crew Cab,24128,17,4.4,4.6
-2017 Ram 2500 Regular Cab,26076,17,4.4,4.3
+2017 Ram 2500 Regular Cab,26076,N/A,4.4,4.3
 2017 Volvo V90,27747,25,4.4,4.7
 2017 Toyota Tacoma Double Cab,28694,20,4.4,4.0
 2017 GMC Yukon XL,29867,18,4.4,4.0
@@ -1193,41 +1193,41 @@ Name,Price,Mileage,Expert Rating,Consumer Rating
 2017 FIAT 500L,12536,25,3.0,4.5
 2017 Jeep Patriot,12693,23,3.0,4.2
 2017 Mitsubishi i-MiEV,12223,23,2.4,4.6
-2017 MINI Clubman,15835,28,(N/A),3.8
-2017 Volkswagen CC,15953,25,(N/A),4.4
-2017 Volkswagen Tiguan Limited,16321,21,(N/A),4.2
-2017 Ram ProMaster City,16920,24,(N/A),3.2
-2017 Ford Transit Connect Passenger,16954,22,(N/A),4.3
-2017 Toyota Corolla iM,17500,31,(N/A),4.3
-2017 Ford Transit Connect Cargo,18167,23,(N/A),4.3
-2017 Chevrolet City Express,18373,25,(N/A),5.0
-2017 MINI Countryman,18785,28,(N/A),4.2
-2017 Subaru WRX,20074,23,(N/A),4.5
-2017 Chevrolet Express 3500 Passenger,21139,12,(N/A),4.2
-2017 Ram ProMaster Window Van,21762,N/A,(N/A),5.0
-2017 Mercedes-Benz Metris WORKER Cargo,22096,22,(N/A),4.0
-2017 GMC Savana 3500 Passenger,22577,12,(N/A),4.4
-2017 Mercedes-Benz Metris Cargo,23259,22,(N/A),4.0
-2017 Chevrolet Express 2500 Passenger,23348,N/A,(N/A),4.2
-2017 Mercedes-Benz Metris WORKER Passenger,23800,22,(N/A),4.0
-2017 GMC Savana 2500 Passenger,23881,N/A,(N/A),4.4
-2017 GMC Savana 2500 Cargo,25095,N/A,(N/A),4.4
-2017 Ram ProMaster Cargo Van,25185,N/A,(N/A),3.4
-2017 Genesis G90,25229,20,(N/A),4.8
-2017 Mercedes-Benz Metris Passenger,25437,22,(N/A),4.0
-2017 Nissan NV1500 Cargo,25639,N/A,(N/A),4.7
-2017 Nissan NV2500 HD Cargo,27073,N/A,(N/A),4.7
-2017 Chevrolet Express 2500 Cargo,27352,N/A,(N/A),4.2
-2017 Ford Transit 250 Van,28614,N/A,(N/A),3.7
-2017 Nissan NV3500 HD Passenger,28672,N/A,(N/A),4.7
-2017 Chevrolet Express 3500 Cargo,28693,N/A,(N/A),4.2
-2017 Nissan NV3500 HD Cargo,28980,N/A,(N/A),4.7
-2017 Jaguar XJ,29034,21,(N/A),4.6
-2017 Ford Transit 150 Wagon,29416,16,(N/A),3.7
-2017 BMW 7 Series,29450,24,(N/A),4.3
-2017 Ford Transit 350 Van,29577,24,(N/A),3.7
-2017 Mercedes-Benz Sprinter 2500 Cargo,29577,24,(N/A),4.3
-2017 Ford Transit 350 Wagon,29583,24,(N/A),3.7
+2017 MINI Clubman,15835,28,N/A,3.8
+2017 Volkswagen CC,15953,25,N/A,4.4
+2017 Volkswagen Tiguan Limited,16321,21,N/A,4.2
+2017 Ram ProMaster City,16920,24,N/A,3.2
+2017 Ford Transit Connect Passenger,16954,22,N/A,4.3
+2017 Toyota Corolla iM,17500,31,N/A,4.3
+2017 Ford Transit Connect Cargo,18167,23,N/A,4.3
+2017 Chevrolet City Express,18373,25,N/A,5.0
+2017 MINI Countryman,18785,28,N/A,4.2
+2017 Subaru WRX,20074,23,N/A,4.5
+2017 Chevrolet Express 3500 Passenger,21139,12,N/A,4.2
+2017 Ram ProMaster Window Van,21762,N/A,N/A,5.0
+2017 Mercedes-Benz Metris WORKER Cargo,22096,22,N/A,4.0
+2017 GMC Savana 3500 Passenger,22577,12,N/A,4.4
+2017 Mercedes-Benz Metris Cargo,23259,22,N/A,4.0
+2017 Chevrolet Express 2500 Passenger,23348,N/A,N/A,4.2
+2017 Mercedes-Benz Metris WORKER Passenger,23800,22,N/A,4.0
+2017 GMC Savana 2500 Passenger,23881,N/A,N/A,4.4
+2017 GMC Savana 2500 Cargo,25095,N/A,N/A,4.4
+2017 Ram ProMaster Cargo Van,25185,N/A,N/A,3.4
+2017 Genesis G90,25229,20,N/A,4.8
+2017 Mercedes-Benz Metris Passenger,25437,22,N/A,4.0
+2017 Nissan NV1500 Cargo,25639,N/A,N/A,4.7
+2017 Nissan NV2500 HD Cargo,27073,N/A,N/A,4.7
+2017 Chevrolet Express 2500 Cargo,27352,N/A,N/A,4.2
+2017 Ford Transit 250 Van,28614,N/A,N/A,3.7
+2017 Nissan NV3500 HD Passenger,28672,N/A,N/A,4.7
+2017 Chevrolet Express 3500 Cargo,28693,N/A,N/A,4.2
+2017 Nissan NV3500 HD Cargo,28980,N/A,N/A,4.7
+2017 Jaguar XJ,29034,21,N/A,4.6
+2017 Ford Transit 150 Wagon,29416,16,N/A,3.7
+2017 BMW 7 Series,29450,24,N/A,4.3
+2017 Ford Transit 350 Van,29577,N/A,N/A,3.7
+2017 Mercedes-Benz Sprinter 2500 Cargo,29577,N/A,N/A,4.3
+2017 Ford Transit 350 Wagon,29583,N/A,N/A,3.7
 2016 Honda Civic,15138,35,4.8,4.7
 2016 Honda CR-V,17559,27,4.8,4.1
 2016 Acura MDX,17690,22,4.8,4.0
@@ -1394,7 +1394,7 @@ Name,Price,Mileage,Expert Rating,Consumer Rating
 2016 Ford C-MAX Energi,16511,25,4.0,4.5
 2016 INFINITI QX50,18956,20,4.0,4.6
 2016 Acura RLX,19604,24,4.0,4.5
-2016 Nissan TITAN XD Crew Cab,20515,24,4.0,4.5
+2016 Nissan TITAN XD Crew Cab,20515,N/A,4.0,4.5
 2016 Ford Expedition EL,20650,16,4.0,4.6
 2016 INFINITI QX70,21673,18,4.0,4.6
 2016 Acura RLX Sport Hybrid,23443,30,4.0,4.8
@@ -1479,53 +1479,53 @@ Name,Price,Mileage,Expert Rating,Consumer Rating
 2016 Mitsubishi i-MiEV,9503,21,2.5,4.6
 2016 Jeep Patriot,11452,23,2.5,4.2
 2016 Jeep Compass,12427,22,2.5,3.5
-2016 FIAT 500c,11262,30,(N/A),4.3
-2016 Chevrolet Impala Limited,11543,22,(N/A),4.3
-2016 Volvo S80,13134,29,(N/A),4.5
-2016 FIAT 500 Abarth,14326,30,(N/A),4.3
-2016 MINI Clubman,14729,28,(N/A),3.8
-2016 Volkswagen Golf SportWagen,14823,29,(N/A),4.6
-2016 Scion iM,15033,32,(N/A),4.9
-2016 Chevrolet City Express,15062,25,(N/A),5.0
-2016 Ford Transit Connect Passenger,15253,23,(N/A),4.3
-2016 Ram ProMaster City,15494,24,(N/A),3.2
-2016 Nissan NV200 Taxi,16516,24,(N/A),4.0
-2016 Jaguar XF,16724,24,(N/A),4.8
-2016 Audi A6,16925,23,(N/A),4.6
-2016 Kia K900,17459,20,(N/A),4.5
-2016 Ford Transit Connect Cargo,18104,24,(N/A),4.3
-2016 Ram ProMaster Window Van,18549,N/A,(N/A),5.0
-2016 Mercedes-Benz E-Class,18780,23,(N/A),4.7
-2016 Mercedes-Benz Metris Cargo,18916,22,(N/A),4.0
-2016 Chevrolet Express 3500 Passenger,19295,12,(N/A),4.2
-2016 GMC Savana 2500 Passenger,20013,13,(N/A),4.4
-2016 GMC Savana 3500 Passenger,21461,12,(N/A),4.4
-2016 Nissan NV2500 HD Cargo,21873,N/A,(N/A),4.7
-2016 Ram ProMaster Cargo Van,21998,N/A,(N/A),3.4
-2016 Chevrolet Express 2500 Passenger,22253,13,(N/A),4.2
-2016 Ram 2500 Regular Cab,22550,N/A,(N/A),4.3
-2016 Nissan NV3500 HD Passenger,23019,N/A,(N/A),4.7
-2016 Nissan NV1500 Cargo,23469,N/A,(N/A),4.7
-2016 Cadillac CT6,23479,25,(N/A),4.2
-2016 Jaguar XJ,23776,21,(N/A),4.6
-2016 GMC Savana 2500 Cargo,23874,N/A,(N/A),4.4
-2016 Ford Transit 150 Wagon,23990,16,(N/A),3.7
-2016 Chevrolet Express 2500 Cargo,24521,N/A,(N/A),4.2
-2016 BMW 7 Series,24640,23,(N/A),4.3
-2016 Nissan NV3500 HD Cargo,26101,N/A,(N/A),4.7
-2016 GMC Savana 3500 Cargo,26319,N/A,(N/A),4.4
-2016 Audi S6,26414,21,(N/A),4.6
-2016 Ford Transit 150 Van,26695,N/A,(N/A),3.7
-2016 Ford Transit 350 Wagon,26782,N/A,(N/A),3.7
-2016 Chevrolet Express 3500 Cargo,26853,N/A,(N/A),4.2
-2016 Ford Transit 250 Van,26975,N/A,(N/A),3.7
-2016 Cadillac ELR,27104,N/A,(N/A),4.1
-2016 Chevrolet Silverado 2500 HD Regular Cab,27266,N/A,(N/A),4.6
-2016 Audi TT,27456,26,(N/A),4.9
-2016 Ford Transit 350 Van,27485,N/A,(N/A),3.7
-2016 GMC Sierra 2500 HD Regular Cab,27649,N/A,(N/A),4.7
-2016 Tesla Model X,28250,N/A,(N/A),4.6
-2016 Mercedes-Benz Sprinter 2500 Cargo,28672,N/A,(N/A),4.3
+2016 FIAT 500c,11262,30,N/A,4.3
+2016 Chevrolet Impala Limited,11543,22,N/A,4.3
+2016 Volvo S80,13134,29,N/A,4.5
+2016 FIAT 500 Abarth,14326,30,N/A,4.3
+2016 MINI Clubman,14729,28,N/A,3.8
+2016 Volkswagen Golf SportWagen,14823,29,N/A,4.6
+2016 Scion iM,15033,32,N/A,4.9
+2016 Chevrolet City Express,15062,25,N/A,5.0
+2016 Ford Transit Connect Passenger,15253,23,N/A,4.3
+2016 Ram ProMaster City,15494,24,N/A,3.2
+2016 Nissan NV200 Taxi,16516,24,N/A,4.0
+2016 Jaguar XF,16724,24,N/A,4.8
+2016 Audi A6,16925,23,N/A,4.6
+2016 Kia K900,17459,20,N/A,4.5
+2016 Ford Transit Connect Cargo,18104,24,N/A,4.3
+2016 Ram ProMaster Window Van,18549,N/A,N/A,5.0
+2016 Mercedes-Benz E-Class,18780,23,N/A,4.7
+2016 Mercedes-Benz Metris Cargo,18916,22,N/A,4.0
+2016 Chevrolet Express 3500 Passenger,19295,12,N/A,4.2
+2016 GMC Savana 2500 Passenger,20013,13,N/A,4.4
+2016 GMC Savana 3500 Passenger,21461,12,N/A,4.4
+2016 Nissan NV2500 HD Cargo,21873,N/A,N/A,4.7
+2016 Ram ProMaster Cargo Van,21998,N/A,N/A,3.4
+2016 Chevrolet Express 2500 Passenger,22253,13,N/A,4.2
+2016 Ram 2500 Regular Cab,22550,N/A,N/A,4.3
+2016 Nissan NV3500 HD Passenger,23019,N/A,N/A,4.7
+2016 Nissan NV1500 Cargo,23469,N/A,N/A,4.7
+2016 Cadillac CT6,23479,25,N/A,4.2
+2016 Jaguar XJ,23776,21,N/A,4.6
+2016 GMC Savana 2500 Cargo,23874,N/A,N/A,4.4
+2016 Ford Transit 150 Wagon,23990,16,N/A,3.7
+2016 Chevrolet Express 2500 Cargo,24521,N/A,N/A,4.2
+2016 BMW 7 Series,24640,23,N/A,4.3
+2016 Nissan NV3500 HD Cargo,26101,N/A,N/A,4.7
+2016 GMC Savana 3500 Cargo,26319,N/A,N/A,4.4
+2016 Audi S6,26414,21,N/A,4.6
+2016 Ford Transit 150 Van,26695,N/A,N/A,3.7
+2016 Ford Transit 350 Wagon,26782,N/A,N/A,3.7
+2016 Chevrolet Express 3500 Cargo,26853,N/A,N/A,4.2
+2016 Ford Transit 250 Van,26975,N/A,N/A,3.7
+2016 Cadillac ELR,27104,N/A,N/A,4.1
+2016 Chevrolet Silverado 2500 HD Regular Cab,27266,N/A,N/A,4.6
+2016 Audi TT,27456,26,N/A,4.9
+2016 Ford Transit 350 Van,27485,N/A,N/A,3.7
+2016 GMC Sierra 2500 HD Regular Cab,27649,N/A,N/A,4.7
+2016 Tesla Model X,28250,N/A,N/A,4.6
+2016 Mercedes-Benz Sprinter 2500 Cargo,28672,N/A,N/A,4.3
 2015 Honda CR-V,15841,28,4.9,4.1
 2015 Honda Fit,12733,36,4.8,4.5
 2015 MAZDA CX-5,12666,29,4.7,4.6
@@ -1756,83 +1756,83 @@ Name,Price,Mileage,Expert Rating,Consumer Rating
 2015 Lincoln MKT,16003,19,2.6,4.6
 2015 smart fortwo,9080,36,1.6,4.4
 2015 smart fortwo electric drive,9862,36,1.6,4.2
-2015 Ram C/V Tradesman,9851,21,(N/A),4.0
-2015 Chevrolet Captiva Sport,9948,23,(N/A),3.9
-2015 Chevrolet Impala Limited,10389,22,(N/A),4.3
-2015 Volkswagen Golf,10623,30,(N/A),4.3
-2015 Volvo V60,10773,29,(N/A),4.0
-2015 Volvo S80,11089,29,(N/A),4.5
-2015 Ford C-MAX Hybrid,11316,40,(N/A),4.6
-2015 Volkswagen e-Golf,12937,N/A,(N/A),5.0
-2015 Lincoln MKC,13015,23,(N/A),4.6
-2015 Volkswagen Golf SportWagen,13024,29,(N/A),4.6
-2015 Chevrolet City Express,13248,25,(N/A),5.0
-2015 Ram ProMaster City,13546,24,(N/A),3.2
-2015 Ford Transit Connect Passenger,13551,23,(N/A),4.3
-2015 BMW i3,13655,23,(N/A),4.7
-2015 Mercedes-Benz B-Class,13885,23,(N/A),3.0
-2015 Mercedes-Benz C-Class,13993,25,(N/A),4.3
-2015 Nissan NV200 Taxi,14116,24,(N/A),4.0
-2015 Ford Transit Connect Cargo,15156,24,(N/A),4.3
-2015 Mercedes-Benz GLA-Class,15269,27,(N/A),4.4
-2015 Land Rover Discovery Sport,15293,22,(N/A),3.9
-2015 BMW 4 Series,15711,27,(N/A),4.8
-2015 Acura TLX,16331,28,(N/A),4.3
-2015 INFINITI Q70,16475,21,(N/A),4.4
-2015 Kia K900,16558,18,(N/A),4.5
-2015 BMW 2 Series,16971,28,(N/A),4.8
-2015 Mercedes-Benz E-Class,17112,23,(N/A),4.7
-2015 Chevrolet Express 2500 Passenger,17269,13,(N/A),4.2
-2015 Dodge Challenger,17391,23,(N/A),4.7
-2015 BMW 7 Series,17435,19,(N/A),4.3
-2015 Chevrolet Express 3500 Passenger,17586,12,(N/A),4.2
-2015 Subaru WRX,17618,24,(N/A),4.5
-2015 Audi Q3,17976,23,(N/A),4.9
-2015 BMW X5,18146,22,(N/A),4.4
-2015 Nissan NV3500 HD Passenger,18295,N/A,(N/A),4.7
-2015 Ford Mustang,18307,25,(N/A),4.7
-2015 Ram ProMaster Cargo Van,18589,N/A,(N/A),3.4
-2015 GMC Savana 2500 Passenger,19200,13,(N/A),4.4
-2015 Nissan NV1500 Cargo,19280,N/A,(N/A),4.7
-2015 Lexus NX,19296,25,(N/A),4.5
-2015 Chevrolet Express 2500 Cargo,19650,N/A,(N/A),4.2
-2015 Volkswagen Golf R,19689,26,(N/A),4.9
-2015 GMC Savana 3500 Passenger,19692,12,(N/A),4.4
-2015 BMW X4,19710,23,(N/A),5.0
-2015 Ram 2500 Regular Cab,19897,N/A,(N/A),4.3
-2015 Ford Transit 150 Wagon,19925,16,(N/A),3.7
-2015 Lexus IS,20562,24,(N/A),4.4
-2015 GMC Savana 2500 Cargo,20690,24,(N/A),4.4
-2015 Jaguar XJ,21026,21,(N/A),4.6
-2015 BMW X6,21819,22,(N/A),4.9
-2015 Nissan NV3500 HD Cargo,22413,22,(N/A),4.7
-2015 Ford Transit 250 Van,22619,N/A,(N/A),3.7
-2015 Ford Transit 150 Van,23302,N/A,(N/A),3.7
-2015 Maserati Ghibli,23315,19,(N/A),4.6
-2015 Chevrolet Express 3500 Cargo,23330,N/A,(N/A),4.2
-2015 Porsche Macan,23462,19,(N/A),4.7
-2015 Ford Transit 350 Wagon,23483,16,(N/A),3.7
-2015 Chevrolet Silverado 3500 HD Double Cab,23829,N/A,(N/A),4.2
-2015 Chevrolet Silverado 2500 HD Crew Cab,24297,N/A,(N/A),4.6
-2015 GMC Savana 3500 Cargo,24514,N/A,(N/A),4.4
-2015 GMC Sierra 2500 HD Double Cab,24672,N/A,(N/A),4.7
-2015 GMC Sierra 2500 HD Crew Cab,25239,N/A,(N/A),4.7
-2015 Ford Transit 350 Van,25309,N/A,(N/A),3.7
-2015 Ram ProMaster Window Van,25476,N/A,(N/A),5.0
-2015 Chevrolet Silverado 2500 HD Regular Cab,25661,N/A,(N/A),4.6
-2015 GMC Sierra 3500 HD Double Cab,25779,N/A,(N/A),4.0
-2015 GMC Sierra 2500 HD Regular Cab,25900,N/A,(N/A),4.7
-2015 GMC Sierra 3500 HD Crew Cab,26333,N/A,(N/A),4.0
-2015 Chevrolet Silverado 3500 HD Regular Cab,27438,N/A,(N/A),4.2
-2015 Ram 2500 Crew Cab,27597,N/A,(N/A),4.3
-2015 Mercedes-Benz Sprinter 2500 Cargo,27609,N/A,(N/A),4.3
-2015 Lexus LS,27828,19,(N/A),4.7
-2015 Cadillac Escalade ESV,28150,17,(N/A),3.7
-2015 Chevrolet Silverado 3500 HD Crew Cab,28263,N/A,(N/A),4.2
-2015 GMC Sierra 3500 HD Regular Cab,28289,N/A,(N/A),4.0
-2015 Porsche Panamera,29063,N/A,(N/A),4.9
-2015 Maserati Quattroporte,29186,18,(N/A),4.2
-2015 Cadillac Escalade,29845,17,(N/A),3.7
+2015 Ram C/V Tradesman,9851,21,N/A,4.0
+2015 Chevrolet Captiva Sport,9948,23,N/A,3.9
+2015 Chevrolet Impala Limited,10389,22,N/A,4.3
+2015 Volkswagen Golf,10623,30,N/A,4.3
+2015 Volvo V60,10773,29,N/A,4.0
+2015 Volvo S80,11089,29,N/A,4.5
+2015 Ford C-MAX Hybrid,11316,40,N/A,4.6
+2015 Volkswagen e-Golf,12937,N/A,N/A,5.0
+2015 Lincoln MKC,13015,23,N/A,4.6
+2015 Volkswagen Golf SportWagen,13024,29,N/A,4.6
+2015 Chevrolet City Express,13248,25,N/A,5.0
+2015 Ram ProMaster City,13546,24,N/A,3.2
+2015 Ford Transit Connect Passenger,13551,23,N/A,4.3
+2015 BMW i3,13655,N/A,N/A,4.7
+2015 Mercedes-Benz B-Class,13885,N/A,N/A,3.0
+2015 Mercedes-Benz C-Class,13993,25,N/A,4.3
+2015 Nissan NV200 Taxi,14116,24,N/A,4.0
+2015 Ford Transit Connect Cargo,15156,24,N/A,4.3
+2015 Mercedes-Benz GLA-Class,15269,27,N/A,4.4
+2015 Land Rover Discovery Sport,15293,22,N/A,3.9
+2015 BMW 4 Series,15711,27,N/A,4.8
+2015 Acura TLX,16331,28,N/A,4.3
+2015 INFINITI Q70,16475,21,N/A,4.4
+2015 Kia K900,16558,18,N/A,4.5
+2015 BMW 2 Series,16971,28,N/A,4.8
+2015 Mercedes-Benz E-Class,17112,23,N/A,4.7
+2015 Chevrolet Express 2500 Passenger,17269,13,N/A,4.2
+2015 Dodge Challenger,17391,23,N/A,4.7
+2015 BMW 7 Series,17435,19,N/A,4.3
+2015 Chevrolet Express 3500 Passenger,17586,12,N/A,4.2
+2015 Subaru WRX,17618,24,N/A,4.5
+2015 Audi Q3,17976,23,N/A,4.9
+2015 BMW X5,18146,22,N/A,4.4
+2015 Nissan NV3500 HD Passenger,18295,N/A,N/A,4.7
+2015 Ford Mustang,18307,25,N/A,4.7
+2015 Ram ProMaster Cargo Van,18589,N/A,N/A,3.4
+2015 GMC Savana 2500 Passenger,19200,13,N/A,4.4
+2015 Nissan NV1500 Cargo,19280,N/A,N/A,4.7
+2015 Lexus NX,19296,25,N/A,4.5
+2015 Chevrolet Express 2500 Cargo,19650,N/A,N/A,4.2
+2015 Volkswagen Golf R,19689,26,N/A,4.9
+2015 GMC Savana 3500 Passenger,19692,12,N/A,4.4
+2015 BMW X4,19710,23,N/A,5.0
+2015 Ram 2500 Regular Cab,19897,N/A,N/A,4.3
+2015 Ford Transit 150 Wagon,19925,16,N/A,3.7
+2015 Lexus IS,20562,24,N/A,4.4
+2015 GMC Savana 2500 Cargo,20690,N/A,N/A,4.4
+2015 Jaguar XJ,21026,21,N/A,4.6
+2015 BMW X6,21819,22,N/A,4.9
+2015 Nissan NV3500 HD Cargo,22413,N/A,N/A,4.7
+2015 Ford Transit 250 Van,22619,N/A,N/A,3.7
+2015 Ford Transit 150 Van,23302,N/A,N/A,3.7
+2015 Maserati Ghibli,23315,19,N/A,4.6
+2015 Chevrolet Express 3500 Cargo,23330,N/A,N/A,4.2
+2015 Porsche Macan,23462,19,N/A,4.7
+2015 Ford Transit 350 Wagon,23483,16,N/A,3.7
+2015 Chevrolet Silverado 3500 HD Double Cab,23829,N/A,N/A,4.2
+2015 Chevrolet Silverado 2500 HD Crew Cab,24297,N/A,N/A,4.6
+2015 GMC Savana 3500 Cargo,24514,N/A,N/A,4.4
+2015 GMC Sierra 2500 HD Double Cab,24672,N/A,N/A,4.7
+2015 GMC Sierra 2500 HD Crew Cab,25239,N/A,N/A,4.7
+2015 Ford Transit 350 Van,25309,N/A,N/A,3.7
+2015 Ram ProMaster Window Van,25476,N/A,N/A,5.0
+2015 Chevrolet Silverado 2500 HD Regular Cab,25661,N/A,N/A,4.6
+2015 GMC Sierra 3500 HD Double Cab,25779,N/A,N/A,4.0
+2015 GMC Sierra 2500 HD Regular Cab,25900,N/A,N/A,4.7
+2015 GMC Sierra 3500 HD Crew Cab,26333,N/A,N/A,4.0
+2015 Chevrolet Silverado 3500 HD Regular Cab,27438,N/A,N/A,4.2
+2015 Ram 2500 Crew Cab,27597,N/A,N/A,4.3
+2015 Mercedes-Benz Sprinter 2500 Cargo,27609,N/A,N/A,4.3
+2015 Lexus LS,27828,19,N/A,4.7
+2015 Cadillac Escalade ESV,28150,17,N/A,3.7
+2015 Chevrolet Silverado 3500 HD Crew Cab,28263,N/A,N/A,4.2
+2015 GMC Sierra 3500 HD Regular Cab,28289,N/A,N/A,4.0
+2015 Porsche Panamera,29063,N/A,N/A,4.9
+2015 Maserati Quattroporte,29186,18,N/A,4.2
+2015 Cadillac Escalade,29845,17,N/A,3.7
 2014 Honda Odyssey,13079,22,4.5,4.3
 2014 Chrysler 300,11113,23,4.3,4.8
 2014 Nissan Altima,9008,31,4.2,4.1
@@ -2076,71 +2076,71 @@ Name,Price,Mileage,Expert Rating,Consumer Rating
 2014 Mitsubishi Mirage,7650,37,2.2,4.4
 2014 smart fortwo,8179,36,1.7,4.4
 2014 smart fortwo electric drive,8557,36,1.7,4.2
-2014 Mitsubishi i-MiEV,7919,36,(N/A),4.6
-2014 Volkswagen Routan,8193,20,(N/A),3.3
-2014 Chevrolet Spark,8460,34,(N/A),4.2
-2014 Ram C/V Tradesman,8905,21,(N/A),4.0
-2014 Hyundai Veloster,9094,31,(N/A),4.1
-2014 Chevrolet Impala Limited,9190,22,(N/A),4.3
-2014 Honda Civic,9804,31,(N/A),4.5
-2014 MINI Hardtop,9944,34,(N/A),4.6
-2014 Nissan NV200 Taxi,10169,24,(N/A),4.0
-2014 Ford C-MAX Hybrid,10250,40,(N/A),4.6
-2014 Volvo S80,10449,23,(N/A),4.5
-2014 Nissan Rogue,10676,28,(N/A),4.1
-2014 Chevrolet Spark EV,10991,N/A,(N/A),4.7
-2014 Volvo XC90,11290,18,(N/A),4.1
-2014 Mercedes-Benz B-Class,11528,N/A,(N/A),3.0
-2014 MINI Clubman,11881,30,(N/A),4.1
-2014 Mercedes-Benz E-Class,12461,26,(N/A),4.7
-2014 Ford Transit Connect Passenger,12717,23,(N/A),4.3
-2014 Ford Transit Connect Cargo,12912,24,(N/A),4.3
-2014 MINI Convertible,13205,30,(N/A),4.6
-2014 BMW i3,13374,N/A,(N/A),4.7
-2014 Ford E150 Passenger,13482,14,(N/A),4.4
-2014 Ford C-MAX Energi,13870,N/A,(N/A),4.5
-2014 Ford Focus ST,13918,26,(N/A),3.7
-2014 Jaguar XJ,14809,21,(N/A),4.6
-2014 BMW X5,14880,22,(N/A),4.4
-2014 Ford E350 Super Duty Passenger,15171,13,(N/A),4.4
-2014 BMW 7 Series,15220,25,(N/A),4.3
-2014 BMW 2 Series,15841,27,(N/A),4.8
-2014 Chevrolet Express 3500 Passenger,16217,12,(N/A),4.2
-2014 Ford E150 Cargo,16480,15,(N/A),4.4
-2014 GMC Savana 2500 Passenger,16735,13,(N/A),4.4
-2014 Ford E250 Cargo,17062,15,(N/A),4.4
-2014 Ram ProMaster 1500 Cargo,17381,15,(N/A),1.5
-2014 Ram 2500 Regular Cab,17480,15,(N/A),4.3
-2014 GMC Savana 3500 Cargo,17648,15,(N/A),4.4
-2014 GMC Savana 3500 Passenger,17672,12,(N/A),4.4
-2014 GMC Savana 1500 Cargo,17778,16,(N/A),4.4
-2014 Chevrolet Express 1500 Passenger,17973,14,(N/A),4.2
-2014 GMC Savana 2500 Cargo,18014,N/A,(N/A),4.4
-2014 Chevrolet Express 2500 Cargo,18481,N/A,(N/A),4.2
-2014 Ford E350 Super Duty Cargo,19077,13,(N/A),4.4
-2014 Lexus IS,19250,24,(N/A),4.4
-2014 GMC Savana 1500 Passenger,19499,14,(N/A),4.4
-2014 Chevrolet Express 3500 Cargo,19623,12,(N/A),4.2
-2014 Ram ProMaster 2500 Cargo,19894,N/A,(N/A),(N/A)
-2014 Chevrolet Silverado 2500 HD Crew Cab,20726,N/A,(N/A),4.5
-2014 Cadillac ELR,21174,N/A,(N/A),4.1
-2014 Ram 2500 Crew Cab,21620,N/A,(N/A),4.3
-2014 Chevrolet Silverado 3500 HD Regular Cab,21787,N/A,(N/A),4.5
-2014 Ram ProMaster 3500 Cargo,21848,N/A,(N/A),2.5
-2014 Maserati Ghibli,22134,19,(N/A),4.6
-2014 Chevrolet Silverado 2500 HD Regular Cab,22232,N/A,(N/A),4.5
-2014 Freightliner Sprinter 2500 Crew,23304,N/A,(N/A),5.0
-2014 Chevrolet Silverado 3500 HD Crew Cab,23319,N/A,(N/A),4.5
-2014 Porsche Panamera,24022,N/A,(N/A),4.9
-2014 Lexus LS,24287,19,(N/A),4.7
-2014 Freightliner Sprinter 2500 Passenger,25448,N/A,(N/A),5.0
-2014 Mercedes-Benz Sprinter 2500 Cargo,25915,N/A,(N/A),4.3
-2014 Mercedes-Benz Sprinter 2500 Passenger,27146,N/A,(N/A),4.3
-2014 Maserati Quattroporte,27464,18,(N/A),4.2
-2014 Ram 3500 Regular Cab,27965,N/A,(N/A),4.7
-2014 Mercedes-Benz S-Class,28310,20,(N/A),4.5
-2014 Freightliner Sprinter 2500 Cargo,28395,N/A,(N/A),5.0
-2014 Mercedes-Benz Sprinter 2500 Crew,28766,N/A,(N/A),4.3
+2014 Mitsubishi i-MiEV,7919,N/A,N/A,4.6
+2014 Volkswagen Routan,8193,20,N/A,3.3
+2014 Chevrolet Spark,8460,34,N/A,4.2
+2014 Ram C/V Tradesman,8905,21,N/A,4.0
+2014 Hyundai Veloster,9094,31,N/A,4.1
+2014 Chevrolet Impala Limited,9190,22,N/A,4.3
+2014 Honda Civic,9804,31,N/A,4.5
+2014 MINI Hardtop,9944,34,N/A,4.6
+2014 Nissan NV200 Taxi,10169,24,N/A,4.0
+2014 Ford C-MAX Hybrid,10250,40,N/A,4.6
+2014 Volvo S80,10449,23,N/A,4.5
+2014 Nissan Rogue,10676,28,N/A,4.1
+2014 Chevrolet Spark EV,10991,N/A,N/A,4.7
+2014 Volvo XC90,11290,18,N/A,4.1
+2014 Mercedes-Benz B-Class,11528,N/A,N/A,3.0
+2014 MINI Clubman,11881,30,N/A,4.1
+2014 Mercedes-Benz E-Class,12461,26,N/A,4.7
+2014 Ford Transit Connect Passenger,12717,23,N/A,4.3
+2014 Ford Transit Connect Cargo,12912,24,N/A,4.3
+2014 MINI Convertible,13205,30,N/A,4.6
+2014 BMW i3,13374,N/A,N/A,4.7
+2014 Ford E150 Passenger,13482,14,N/A,4.4
+2014 Ford C-MAX Energi,13870,N/A,N/A,4.5
+2014 Ford Focus ST,13918,26,N/A,3.7
+2014 Jaguar XJ,14809,21,N/A,4.6
+2014 BMW X5,14880,22,N/A,4.4
+2014 Ford E350 Super Duty Passenger,15171,13,N/A,4.4
+2014 BMW 7 Series,15220,25,N/A,4.3
+2014 BMW 2 Series,15841,27,N/A,4.8
+2014 Chevrolet Express 3500 Passenger,16217,12,N/A,4.2
+2014 Ford E150 Cargo,16480,15,N/A,4.4
+2014 GMC Savana 2500 Passenger,16735,13,N/A,4.4
+2014 Ford E250 Cargo,17062,15,N/A,4.4
+2014 Ram ProMaster 1500 Cargo,17381,N/A,N/A,1.5
+2014 Ram 2500 Regular Cab,17480,N/A,N/A,4.3
+2014 GMC Savana 3500 Cargo,17648,N/A,N/A,4.4
+2014 GMC Savana 3500 Passenger,17672,12,N/A,4.4
+2014 GMC Savana 1500 Cargo,17778,16,N/A,4.4
+2014 Chevrolet Express 1500 Passenger,17973,14,N/A,4.2
+2014 GMC Savana 2500 Cargo,18014,N/A,N/A,4.4
+2014 Chevrolet Express 2500 Cargo,18481,N/A,N/A,4.2
+2014 Ford E350 Super Duty Cargo,19077,13,N/A,4.4
+2014 Lexus IS,19250,24,N/A,4.4
+2014 GMC Savana 1500 Passenger,19499,14,N/A,4.4
+2014 Chevrolet Express 3500 Cargo,19623,12,N/A,4.2
+2014 Ram ProMaster 2500 Cargo,19894,N/A,N/A,N/A
+2014 Chevrolet Silverado 2500 HD Crew Cab,20726,N/A,N/A,4.5
+2014 Cadillac ELR,21174,N/A,N/A,4.1
+2014 Ram 2500 Crew Cab,21620,N/A,N/A,4.3
+2014 Chevrolet Silverado 3500 HD Regular Cab,21787,N/A,N/A,4.5
+2014 Ram ProMaster 3500 Cargo,21848,N/A,N/A,2.5
+2014 Maserati Ghibli,22134,19,N/A,4.6
+2014 Chevrolet Silverado 2500 HD Regular Cab,22232,N/A,N/A,4.5
+2014 Freightliner Sprinter 2500 Crew,23304,N/A,N/A,5.0
+2014 Chevrolet Silverado 3500 HD Crew Cab,23319,N/A,N/A,4.5
+2014 Porsche Panamera,24022,N/A,N/A,4.9
+2014 Lexus LS,24287,19,N/A,4.7
+2014 Freightliner Sprinter 2500 Passenger,25448,N/A,N/A,5.0
+2014 Mercedes-Benz Sprinter 2500 Cargo,25915,N/A,N/A,4.3
+2014 Mercedes-Benz Sprinter 2500 Passenger,27146,N/A,N/A,4.3
+2014 Maserati Quattroporte,27464,18,N/A,4.2
+2014 Ram 3500 Regular Cab,27965,N/A,N/A,4.7
+2014 Mercedes-Benz S-Class,28310,20,N/A,4.5
+2014 Freightliner Sprinter 2500 Cargo,28395,N/A,N/A,5.0
+2014 Mercedes-Benz Sprinter 2500 Crew,28766,N/A,N/A,4.3
 2013 Honda Odyssey,11294,21,4.6,4.3
 2013 Nissan Altima,8527,31,4.3,4.1
 2013 Chrysler 300,9620,23,4.3,4.8
@@ -2387,67 +2387,67 @@ Name,Price,Mileage,Expert Rating,Consumer Rating
 2013 Lincoln MKT,12200,19,2.7,4.6
 2013 smart fortwo,6682,36,1.7,4.4
 2013 smart fortwo electric drive,7470,36,1.7,4.2
-2013 Hyundai Elantra,7237,31,(N/A),4.2
-2013 Volkswagen Routan,7564,20,(N/A),3.3
-2013 Chevrolet Spark,7802,32,(N/A),4.2
-2013 Chevrolet Captiva Sport,8073,23,(N/A),3.9
-2013 Hyundai Veloster,8277,31,(N/A),4.1
-2013 Ford C-MAX Hybrid,8481,40,(N/A),4.6
-2013 Ram C/V Tradesman,8620,20,(N/A),4.0
-2013 Volvo XC90,8809,18,(N/A),4.1
-2013 Volvo S80,9046,23,(N/A),4.5
-2013 MINI Paceman,9437,30,(N/A),4.8
-2013 Ford Transit Connect Cargo,9770,23,(N/A),3.8
-2013 Ford Transit Connect Passenger,9807,24,(N/A),3.8
-2013 Ford C-MAX Energi,10781,N/A,(N/A),4.5
-2013 Ford Focus ST,11643,26,(N/A),3.7
-2013 Ford E150 Passenger,12683,14,(N/A),4.4
-2013 Ford Expedition EL,12907,15,(N/A),4.6
-2013 BMW 7 Series,13695,25,(N/A),4.3
-2013 Jaguar XJ,13930,21,(N/A),4.6
-2013 Ford E350 Super Duty Passenger,14029,13,(N/A),4.4
-2013 Ford E250 Cargo,14982,15,(N/A),4.4
-2013 Nissan NV3500 HD Passenger,15366,N/A,(N/A),4.7
-2013 GMC Savana 2500 Passenger,15404,13,(N/A),4.4
-2013 Ram 2500 Regular Cab,15566,N/A,(N/A),4.3
-2013 Audi A8,15614,21,(N/A),4.4
-2013 GMC Savana 2500 Cargo,15710,N/A,(N/A),4.4
-2013 Chevrolet Express 3500 Passenger,15746,12,(N/A),4.2
-2013 Chevrolet Express 2500 Passenger,15818,13,(N/A),4.2
-2013 Ford E350 Super Duty Cargo,15969,13,(N/A),4.4
-2013 GMC Savana 3500 Passenger,15986,12,(N/A),4.4
-2013 Nissan NV2500 HD Cargo,15987,12,(N/A),4.7
-2013 Chevrolet Express 1500 Passenger,16073,14,(N/A),4.2
-2013 Chevrolet Express 1500 Cargo,16194,17,(N/A),4.2
-2013 GMC Savana 3500 Cargo,16569,11,(N/A),4.4
-2013 Chevrolet Silverado 2500 HD Crew Cab,16583,N/A,(N/A),4.5
-2013 GMC Savana 1500 Passenger,16602,14,(N/A),4.4
-2013 Chevrolet Silverado 3500 HD Extended Cab,16636,N/A,(N/A),4.5
-2013 Chevrolet Express 2500 Cargo,16680,N/A,(N/A),4.2
-2013 Land Rover Range Rover,16853,16,(N/A),3.8
-2013 Chevrolet Silverado 2500 HD Extended Cab,17785,N/A,(N/A),4.5
-2013 Nissan NV1500 Cargo,17859,N/A,(N/A),4.7
-2013 Acura ZDX,18021,19,(N/A),4.8
-2013 Chevrolet Express 3500 Cargo,18428,12,(N/A),4.2
-2013 Nissan NV3500 HD Cargo,19522,N/A,(N/A),4.7
-2013 Mercedes-Benz Sprinter 2500 Cargo,20346,N/A,(N/A),4.3
-2013 Chevrolet Silverado 2500 HD Regular Cab,20465,N/A,(N/A),4.5
-2013 Freightliner Sprinter 2500 Crew,20492,N/A,(N/A),5.0
-2013 Chevrolet Silverado 3500 HD Regular Cab,20554,N/A,(N/A),4.5
-2013 Ram 2500 Crew Cab,20628,N/A,(N/A),4.3
-2013 Lexus LS,21085,19,(N/A),4.7
-2013 Freightliner Sprinter 2500 Passenger,21773,N/A,(N/A),5.0
-2013 Chevrolet Silverado 3500 HD Crew Cab,22233,N/A,(N/A),4.5
-2013 Porsche Panamera,22571,21,(N/A),4.9
-2013 Freightliner Sprinter 2500 Cargo,23306,N/A,(N/A),5.0
-2013 Mercedes-Benz Sprinter 2500 Crew,23403,N/A,(N/A),4.3
-2013 Audi S8,23700,19,(N/A),5.0
-2013 Freightliner Sprinter 3500 Cargo,24647,N/A,(N/A),5.0
-2013 Audi RS 5,24681,18,(N/A),4.8
-2013 Mercedes-Benz Sprinter 2500 Passenger,25544,N/A,(N/A),4.3
-2013 Maserati Quattroporte,26566,14,(N/A),4.2
-2013 Mercedes-Benz Sprinter 3500 Cargo,27241,N/A,(N/A),4.3
-2013 Ram 3500 Crew Cab,29438,N/A,(N/A),4.7
+2013 Hyundai Elantra,7237,31,N/A,4.2
+2013 Volkswagen Routan,7564,20,N/A,3.3
+2013 Chevrolet Spark,7802,32,N/A,4.2
+2013 Chevrolet Captiva Sport,8073,23,N/A,3.9
+2013 Hyundai Veloster,8277,31,N/A,4.1
+2013 Ford C-MAX Hybrid,8481,40,N/A,4.6
+2013 Ram C/V Tradesman,8620,20,N/A,4.0
+2013 Volvo XC90,8809,18,N/A,4.1
+2013 Volvo S80,9046,23,N/A,4.5
+2013 MINI Paceman,9437,30,N/A,4.8
+2013 Ford Transit Connect Cargo,9770,23,N/A,3.8
+2013 Ford Transit Connect Passenger,9807,24,N/A,3.8
+2013 Ford C-MAX Energi,10781,N/A,N/A,4.5
+2013 Ford Focus ST,11643,26,N/A,3.7
+2013 Ford E150 Passenger,12683,14,N/A,4.4
+2013 Ford Expedition EL,12907,15,N/A,4.6
+2013 BMW 7 Series,13695,25,N/A,4.3
+2013 Jaguar XJ,13930,21,N/A,4.6
+2013 Ford E350 Super Duty Passenger,14029,13,N/A,4.4
+2013 Ford E250 Cargo,14982,15,N/A,4.4
+2013 Nissan NV3500 HD Passenger,15366,N/A,N/A,4.7
+2013 GMC Savana 2500 Passenger,15404,13,N/A,4.4
+2013 Ram 2500 Regular Cab,15566,N/A,N/A,4.3
+2013 Audi A8,15614,21,N/A,4.4
+2013 GMC Savana 2500 Cargo,15710,N/A,N/A,4.4
+2013 Chevrolet Express 3500 Passenger,15746,12,N/A,4.2
+2013 Chevrolet Express 2500 Passenger,15818,13,N/A,4.2
+2013 Ford E350 Super Duty Cargo,15969,13,N/A,4.4
+2013 GMC Savana 3500 Passenger,15986,12,N/A,4.4
+2013 Nissan NV2500 HD Cargo,15987,N/A,N/A,4.7
+2013 Chevrolet Express 1500 Passenger,16073,14,N/A,4.2
+2013 Chevrolet Express 1500 Cargo,16194,17,N/A,4.2
+2013 GMC Savana 3500 Cargo,16569,11,N/A,4.4
+2013 Chevrolet Silverado 2500 HD Crew Cab,16583,N/A,N/A,4.5
+2013 GMC Savana 1500 Passenger,16602,14,N/A,4.4
+2013 Chevrolet Silverado 3500 HD Extended Cab,16636,N/A,N/A,4.5
+2013 Chevrolet Express 2500 Cargo,16680,N/A,N/A,4.2
+2013 Land Rover Range Rover,16853,16,N/A,3.8
+2013 Chevrolet Silverado 2500 HD Extended Cab,17785,N/A,N/A,4.5
+2013 Nissan NV1500 Cargo,17859,N/A,N/A,4.7
+2013 Acura ZDX,18021,19,N/A,4.8
+2013 Chevrolet Express 3500 Cargo,18428,12,N/A,4.2
+2013 Nissan NV3500 HD Cargo,19522,N/A,N/A,4.7
+2013 Mercedes-Benz Sprinter 2500 Cargo,20346,N/A,N/A,4.3
+2013 Chevrolet Silverado 2500 HD Regular Cab,20465,N/A,N/A,4.5
+2013 Freightliner Sprinter 2500 Crew,20492,N/A,N/A,5.0
+2013 Chevrolet Silverado 3500 HD Regular Cab,20554,N/A,N/A,4.5
+2013 Ram 2500 Crew Cab,20628,N/A,N/A,4.3
+2013 Lexus LS,21085,19,N/A,4.7
+2013 Freightliner Sprinter 2500 Passenger,21773,N/A,N/A,5.0
+2013 Chevrolet Silverado 3500 HD Crew Cab,22233,N/A,N/A,4.5
+2013 Porsche Panamera,22571,21,N/A,4.9
+2013 Freightliner Sprinter 2500 Cargo,23306,N/A,N/A,5.0
+2013 Mercedes-Benz Sprinter 2500 Crew,23403,N/A,N/A,4.3
+2013 Audi S8,23700,19,N/A,5.0
+2013 Freightliner Sprinter 3500 Cargo,24647,N/A,N/A,5.0
+2013 Audi RS 5,24681,18,N/A,4.8
+2013 Mercedes-Benz Sprinter 2500 Passenger,25544,N/A,N/A,4.3
+2013 Maserati Quattroporte,26566,14,N/A,4.2
+2013 Mercedes-Benz Sprinter 3500 Cargo,27241,N/A,N/A,4.3
+2013 Ram 3500 Crew Cab,29438,N/A,N/A,4.7
 2012 Honda Odyssey,10413,21,4.6,4.3
 2012 Chrysler 300,9555,23,4.4,4.8
 2012 BMW 5 Series,9661,18,4.3,4.4
@@ -2687,40 +2687,61 @@ Name,Price,Mileage,Expert Rating,Consumer Rating
 2012 Suzuki Grand Vitara,6162,22,2.5,4.3
 2012 Jeep Compass,7932,23,2.4,3.5
 2012 smart fortwo,6097,36,1.8,4.4
-2012 Dodge Caliber,5763,27,(N/A),3.9
-2012 Mitsubishi Eclipse,6617,23,(N/A),4.6
-2012 Chevrolet Captiva Sport,6943,23,(N/A),3.9
-2012 Ram C/V,6996,20,(N/A),5.0
-2012 MINI Clubman,7995,30,(N/A),4.1
-2012 Volkswagen Jetta SportWagen,8536,26,(N/A),4.4
-2012 Volvo S80,8634,23,(N/A),4.5
-2012 MINI Hardtop,8655,31,(N/A),4.3
-2012 Ford Transit Connect Cargo,9123,23,(N/A),3.8
-2012 MINI Roadster,9190,30,(N/A),5.0
-2012 Ford Transit Connect Passenger,9504,24,(N/A),3.8
-2012 Land Rover LR2,9535,17,(N/A),4.5
-2012 Toyota Matrix,9726,28,(N/A),4.3
-2012 MINI Coupe,9822,32,(N/A),4.5
-2012 Hyundai Azera,10067,23,(N/A),4.6
-2012 MINI Convertible,10469,30,(N/A),4.3
-2012 BMW 7 Series,11026,20,(N/A),4.3
-2012 Ford E150 Passenger,11798,14,(N/A),4.4
-2012 Acura RL,12086,20,(N/A),4.7
-2012 Ford E150 Cargo,12497,15,(N/A),4.4
-2012 Chevrolet Express 1500 Passenger,12752,14,(N/A),4.2
-2012 GMC Savana 1500 Passenger,12992,14,(N/A),4.4
-2012 Ford E350 Super Duty Passenger,13032,13,(N/A),4.4
-2012 Chevrolet Express 2500 Passenger,13046,13,(N/A),4.2
-2012 GMC Savana 3500 Cargo,13308,11,(N/A),4.4
-2012 Chevrolet Express 1500 Cargo,13441,17,(N/A),4.2
-2012 GMC Savana 2500 Passenger,13442,13,(N/A),4.4
-2012 Chevrolet Express 3500 Passenger,13517,12,(N/A),4.2
-2012 Ford E250 Cargo,13663,15,(N/A),4.4
-2012 Jaguar XJ,13675,19,(N/A),4.6
-2012 GMC Savana 1500 Cargo,13687,17,(N/A),4.4
-2012 Chevrolet Silverado 2500 HD Extended Cab,14315,N/A,(N/A),4.5
-2012 Ford E350 Super Duty Cargo,14379,13,(N/A),4.4
-2012 GMC Savana 2500 Cargo,14525,13,(N/A),4.4
-2012 Audi A8,14548,21,(N/A),4.4
-2012 Nissan NV2500 HD Cargo,14576,21,(N/A),4.7
-2012 Chevrolet Express 2500 Cargo,14773,21,(N/A),4.2
+2012 Dodge Caliber,5763,27,N/A,3.9
+2012 Mitsubishi Eclipse,6617,23,N/A,4.6
+2012 Chevrolet Captiva Sport,6943,23,N/A,3.9
+2012 Ram C/V,6996,20,N/A,5.0
+2012 MINI Clubman,7995,30,N/A,4.1
+2012 Volkswagen Jetta SportWagen,8536,26,N/A,4.4
+2012 Volvo S80,8634,23,N/A,4.5
+2012 MINI Hardtop,8655,31,N/A,4.3
+2012 Ford Transit Connect Cargo,9123,23,N/A,3.8
+2012 MINI Roadster,9190,30,N/A,5.0
+2012 Ford Transit Connect Passenger,9504,24,N/A,3.8
+2012 Land Rover LR2,9535,17,N/A,4.5
+2012 Toyota Matrix,9726,28,N/A,4.3
+2012 MINI Coupe,9822,32,N/A,4.5
+2012 Hyundai Azera,10067,23,N/A,4.6
+2012 MINI Convertible,10469,30,N/A,4.3
+2012 BMW 7 Series,11026,20,N/A,4.3
+2012 Ford E150 Passenger,11798,14,N/A,4.4
+2012 Acura RL,12086,20,N/A,4.7
+2012 Ford E150 Cargo,12497,15,N/A,4.4
+2012 Chevrolet Express 1500 Passenger,12752,14,N/A,4.2
+2012 GMC Savana 1500 Passenger,12992,14,N/A,4.4
+2012 Ford E350 Super Duty Passenger,13032,13,N/A,4.4
+2012 Chevrolet Express 2500 Passenger,13046,13,N/A,4.2
+2012 GMC Savana 3500 Cargo,13308,11,N/A,4.4
+2012 Chevrolet Express 1500 Cargo,13441,17,N/A,4.2
+2012 GMC Savana 2500 Passenger,13442,13,N/A,4.4
+2012 Chevrolet Express 3500 Passenger,13517,12,N/A,4.2
+2012 Ford E250 Cargo,13663,15,N/A,4.4
+2012 Jaguar XJ,13675,19,N/A,4.6
+2012 GMC Savana 1500 Cargo,13687,17,N/A,4.4
+2012 Chevrolet Silverado 2500 HD Extended Cab,14315,N/A,N/A,4.5
+2012 Ford E350 Super Duty Cargo,14379,13,N/A,4.4
+2012 GMC Savana 2500 Cargo,14525,N/A,N/A,4.4
+2012 Audi A8,14548,21,N/A,4.4
+2012 Nissan NV2500 HD Cargo,14576,N/A,N/A,4.7
+2012 Chevrolet Express 2500 Cargo,14773,N/A,N/A,4.2
+2012 Chevrolet Express 3500 Cargo,14858,11,N/A,4.2
+2012 Nissan NV1500 Cargo,15583,N/A,N/A,4.7
+2012 Ram 2500 Regular Cab,15589,N/A,N/A,4.3
+2012 Nissan NV3500 HD Cargo,15736,N/A,N/A,4.7
+2012 Chevrolet Silverado 3500 HD Extended Cab,15876,N/A,N/A,4.5
+2012 Chevrolet Silverado 2500 HD Crew Cab,16168,N/A,N/A,4.5
+2012 Porsche Panamera,16959,25,N/A,4.9
+2012 Mercedes-Benz CLS-Class,17620,19,N/A,4.8
+2012 Mercedes-Benz Sprinter 2500 Cargo,17626,N/A,N/A,4.3
+2012 Mercedes-Benz Sprinter 2500 Crew,17973,N/A,N/A,4.3
+2012 Chevrolet Silverado 2500 HD Regular Cab,18451,N/A,N/A,4.5
+2012 Chevrolet Silverado 3500 HD Regular Cab,19536,N/A,N/A,4.5
+2012 Chevrolet Silverado 3500 HD Crew Cab,20454,N/A,N/A,4.5
+2012 Mercedes-Benz Sprinter 3500 Cargo,20977,N/A,N/A,4.3
+2012 Maserati Quattroporte,21531,15,N/A,4.8
+2012 Mercedes-Benz Sprinter 2500 Passenger,22010,N/A,N/A,4.3
+2012 Ram 2500 Crew Cab,22199,N/A,N/A,4.3
+2012 Mercedes-Benz CL-Class,22470,18,N/A,4.8
+2012 Tesla Model S,24863,N/A,N/A,4.7
+2012 Ram 3500 Regular Cab,27734,N/A,N/A,4.7
+2012 Ram 3500 Crew Cab,28061,N/A,N/A,4.7
